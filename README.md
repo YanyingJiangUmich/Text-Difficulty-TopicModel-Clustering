@@ -4,7 +4,7 @@
 DATASET: https://www.kaggle.com/competitions/umich-siads-696-f22-predicting-text-difficulty
 
 The purpose of this project wasn't to achieve the highest accuracy from the beginning. It was more of an exploration on how to use different nlp methods 
-for text analysis. Methods includes supervised learning, clustering and topic modeling. 
+for text analysis. Methods includes supervised learning, dimention reduction, clustering and topic modeling. 
 
 -------------------------------------------------------
 ### A. Supervised Learning Model for Predicting Text Difficulty
